@@ -1,7 +1,7 @@
 canyon-city-courier
 ===================
 
-Eight page comic about a rocket car driving courier whose current package turned out to be more than he signed on for.
+Eight page comic about a rocket car driving courier whose current delivery turned out to be more than he signed on for.
 
 ![page one splash](https://raw.githubusercontent.com/wiki/virtuoushub/canyon-city-courier/src/main/png/canyon-city-courier-splash.png?raw=true)
 
