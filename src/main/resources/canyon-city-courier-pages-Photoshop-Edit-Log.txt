@@ -1,0 +1,60 @@
+		Set general preferences of current application
+			To: General Preferences
+			true
+		Set sync preferences of current application
+			To: Sync Preferences
+			false
+			Without Brushes
+			Without Swatches
+			Without Gradients
+			With Styles
+			false
+			Without Contours
+			Without Custom Shapes
+			Without Tool Presets
+			false
+			false
+		Set saving preferences of current application
+			To: File Save Preferences
+			Without Version Cue Server Management
+		Set performance preferences of current application
+			To: Performance Preferences
+			memory percentage: 70%
+		Set units preferences of current application
+			To: Units & Ruler Preferences
+			gutter width: 0.167 Inches
+		Set Type Preferences of current application
+			To: Type Preferences
+			Text composition features: Default
+		Set 3D Preferences of current application
+			To: 3D Preferences
+			Selected Mesh Highlight Color: RGB color
+			Red: 255
+			Green: 255
+			Blue: 255
+			Selected Light Source Widget Color: RGB color
+			Red: 255
+			Green: 255
+			Blue: 255
+			0
+2014-11-17 19:50:13	File page-1.psd closed
+		Close
+2014-11-17 19:50:25	File page-1.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-1.psd
+2014-11-17 19:50:56	File page-2.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-2.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Two”
+			Copyright Status: copyrighted
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+		Set general preferences of current application
+			To: General Preferences
+			true
+			With Log History
+			With Log In File
+			Log File: /Users/ps/Documents/git/canyon-city-courier/src/main/resources/canyon-city-courier-pages-Photoshop-Edit-Log.txt
