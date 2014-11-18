@@ -1,0 +1,29 @@
+# Taken from http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
+# These files are text and should be normalized (convert crlf =&gt; lf)
+*.xml           text
+*.html          text
+*.htm           text
+*.js            text
+*.css           text
+*.md            text
+.gitattributes  text
+.gitignore      text
+
+# Declare files that will always have LF(*nix) line endings on checkout.
+*.sh            text eol=lf
+
+# Declare files that will always have CRLF(Windows) line endings on checkout.
+*.bat           text eol=crlf
+
+# Images should be treated as binary
+# (binary is a macro for -text -diff)
+*.png           binary
+*.jepg          binary
+*.jpg           binary
+*.psd           binary
+*.ai            binary
+*.ait           binary
+*.indd          binary
+*.pdf           binary
+*.cbz           binary
+*.tiff          binary
