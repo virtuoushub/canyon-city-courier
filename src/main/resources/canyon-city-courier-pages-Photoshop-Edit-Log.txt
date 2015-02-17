@@ -1,0 +1,183 @@
+		Set general preferences of current application
+			To: General Preferences
+			true
+		Set sync preferences of current application
+			To: Sync Preferences
+			false
+			Without Brushes
+			Without Swatches
+			Without Gradients
+			With Styles
+			false
+			Without Contours
+			Without Custom Shapes
+			Without Tool Presets
+			false
+			false
+		Set saving preferences of current application
+			To: File Save Preferences
+			Without Version Cue Server Management
+		Set performance preferences of current application
+			To: Performance Preferences
+			memory percentage: 70%
+		Set units preferences of current application
+			To: Units & Ruler Preferences
+			gutter width: 0.167 Inches
+		Set Type Preferences of current application
+			To: Type Preferences
+			Text composition features: Default
+		Set 3D Preferences of current application
+			To: 3D Preferences
+			Selected Mesh Highlight Color: RGB color
+			Red: 255
+			Green: 255
+			Blue: 255
+			Selected Light Source Widget Color: RGB color
+			Red: 255
+			Green: 255
+			Blue: 255
+			0
+2014-11-17 19:50:13	File page-1.psd closed
+		Close
+2014-11-17 19:50:25	File page-1.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-1.psd
+2014-11-17 19:50:56	File page-2.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-2.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  ‚ÄúPeter Colapietro‚Äù
+			Document Title:  ‚ÄúCanyon City Courier Page Two‚Äù
+			Copyright Status: copyrighted
+			URL:  ‚Äúhttp://creativecommons.org/licenses/by-sa/4.0/‚Äù
+		Set general preferences of current application
+			To: General Preferences
+			true
+			With Log History
+			With Log In File
+			Log File: /Users/ps/Documents/git/canyon-city-courier/src/main/resources/canyon-city-courier-pages-Photoshop-Edit-Log.txt
+2014-11-17 20:03:28	Photoshop launched
+		Reset Brushes of current application
+		Reset Tool Presets of current application
+		Set general preferences of current application
+			To: General Preferences
+			true
+			true
+2014-11-17 20:03:49	File page-4.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-4.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Four”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+		Set general preferences of current application
+			To: General Preferences
+			true
+2014-11-17 20:04:28	File page-4.psd saved
+		Save
+	Save
+2014-11-17 20:08:39	File page-5.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-5.psd
+2014-11-17 20:08:42	File page-4.psd closed
+		Close
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Five”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+2014-11-17 20:09:19	File page-5.psd saved
+		Save
+	Save
+2014-11-17 20:09:39	File page-5.psd closed
+		Close
+2014-11-17 20:09:50	File page-6.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-6.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Six”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+2014-11-17 20:10:12	File page-6.psd saved
+		Save
+	Save
+2014-11-17 20:10:36	File page-7.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-7.psd
+		Select previous document
+2014-11-17 20:10:38	File page-6.psd closed
+		Close
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Seven”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+2014-11-17 20:10:53	File page-7.psd saved
+		Save
+	Save
+2014-11-17 20:10:54	File page-7.psd closed
+		Close
+2014-11-17 20:12:01	File page-8-background.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-8-background.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Eight Background”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+2014-11-17 20:12:19	File page-8-background.psd saved
+		Save
+	Save
+2014-11-17 20:12:20	File page-8-background.psd closed
+		Close
+2014-11-17 20:12:38	File page-8-panel-1A.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-8-panel-1A.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Eight Panel One A”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+2014-11-17 20:12:54	File page-8-panel-1A.psd saved
+		Save
+	Save
+2014-11-17 20:13:10	File page-8-panel-2.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-8-panel-2.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Eight Panel Two”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+2014-11-17 20:13:49	File page-8-panel-2.psd saved
+		Save
+	Save
+2014-11-17 20:13:49	File page-8-panel-2.psd closed
+		Close
+2014-11-17 20:13:49	File page-8-panel-1A.psd closed
+		Close
+2014-11-17 20:14:14	File page-8-panel-3-4-5.psd opened
+		Open
+			/Users/ps/Documents/git/canyon-city-courier/src/main/psd/page-8-panel-3-4-5.psd
+	File Info
+		Set File Info of current document
+			To: file info
+			Author:  “Peter Colapietro”
+			Document Title:  “Canyon City Courier Page Eight Panels Three through Five”
+			URL:  “http://creativecommons.org/licenses/by-sa/4.0/”
+2014-11-17 20:15:05	File page-8-panel-3-4-5.psd saved
+		Save
+	Save
+2014-11-17 20:15:33	File page-8-panel-3-4-5.psd closed
+		Close
